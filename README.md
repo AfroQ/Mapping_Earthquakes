@@ -5,8 +5,8 @@ Using GeoJSON to map earthquakes
 
 The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days. The final deliverable can be found in the main folder. 
 
-- Final js code
-- HTML code
+- [Final js code](https://github.com/AfroQ/Mapping_Earthquakes/blob/main/static/js/challenge_logic.js)
+- [HTML code](https://github.com/AfroQ/Mapping_Earthquakes/blob/main/index.html)
 
 ## Tasks
 
@@ -18,4 +18,4 @@ I use JavaScript and the D3.js library to retrieve the coordinates and magnitude
 
 **See map screenshot below:** 
 
-![map_screenshot](C:\Users\nyaku\OneDrive\Desktop\Repos\Mapping_Earthquakes\map_screenshot.png)
+![map_screenshot](./map_screenshot.png)
